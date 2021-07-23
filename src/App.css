@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +40,30 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+  
+}
+td,th {
+  border: 1px solid white;
+  padding: 15px;
+  
+}
+.custom-td{
+  text-align: center;
+}
+
+.icon{
+  margin: 5px;
+}
+
+.btn{
+  width: 100%;
+}
+input[type=text]:not(.browser-default){
+  color: white;
 }
