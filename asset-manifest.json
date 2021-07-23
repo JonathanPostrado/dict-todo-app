@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dict-todo-app/static/css/main.27cb81c8.chunk.css",
+    "main.js": "/dict-todo-app/static/js/main.014971c8.chunk.js",
+    "main.js.map": "/dict-todo-app/static/js/main.014971c8.chunk.js.map",
+    "runtime-main.js": "/dict-todo-app/static/js/runtime-main.3ec51c62.js",
+    "runtime-main.js.map": "/dict-todo-app/static/js/runtime-main.3ec51c62.js.map",
+    "static/js/2.d58e3b49.chunk.js": "/dict-todo-app/static/js/2.d58e3b49.chunk.js",
+    "static/js/2.d58e3b49.chunk.js.map": "/dict-todo-app/static/js/2.d58e3b49.chunk.js.map",
+    "static/js/3.dc3e9193.chunk.js": "/dict-todo-app/static/js/3.dc3e9193.chunk.js",
+    "static/js/3.dc3e9193.chunk.js.map": "/dict-todo-app/static/js/3.dc3e9193.chunk.js.map",
+    "index.html": "/dict-todo-app/index.html",
+    "static/css/main.27cb81c8.chunk.css.map": "/dict-todo-app/static/css/main.27cb81c8.chunk.css.map",
+    "static/js/2.d58e3b49.chunk.js.LICENSE.txt": "/dict-todo-app/static/js/2.d58e3b49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ec51c62.js",
+    "static/js/2.d58e3b49.chunk.js",
+    "static/css/main.27cb81c8.chunk.css",
+    "static/js/main.014971c8.chunk.js"
+  ]
+}
